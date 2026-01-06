@@ -16,7 +16,7 @@ Raw data is confidential and **not included**. This repository contains only das
 
 ### 1. Dashboard Overview  
 *High-level summary of agricultural households across zones.*  
-![dashboard overview](dashboardoverview.png)
+![dashboard overview](https://github.com/Abbymma/Agric-Household-Survey/blob/main/dashboard%20overview.png)
 
 ### 2. Householding  
 *Details of agricultural household distributions and activities.*  
