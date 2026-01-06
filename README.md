@@ -20,15 +20,15 @@ Raw data is confidential and **not included**. This repository contains only das
 
 ### 2. Householding  
 *Details of agricultural household distributions and activities.*  
-![householding](householding.png)
+![householding](householdings.png)
 
 ### 3. Plot / Area  
 *Insight into plot types, conventional vs fallow plots, irrigation, and land area.*  
-![plot area](plot_area.png)
+![plot area](PlotandArea.png)
 
 ### 4. Production  
 *Crop production, harvested seasons (major/minor), livestock and aquaculture participation.*  
-![production](production.png)
+![production](Production.png)
 
 ---
 
