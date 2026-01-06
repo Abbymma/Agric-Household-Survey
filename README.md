@@ -16,19 +16,19 @@ Raw data is confidential and **not included**. This repository contains only das
 
 ### 1. Dashboard Overview  
 *High-level summary of agricultural households across zones.*  
-![dashboard overview](dashboard_overview.png)
+![dashboard overview](agriculture/dashboard_overview.png)
 
 ### 2. Householding  
 *Details of agricultural household distributions and activities.*  
-![householding](householding.png)
+![householding](agriculture/householding.png)
 
 ### 3. Plot / Area  
 *Insight into plot types, conventional vs fallow plots, irrigation, and land area.*  
-![plot area](plot_area.png)
+![plot area](agriculture/plot_area.png)
 
 ### 4. Production  
 *Crop production, harvested seasons (major/minor), livestock and aquaculture participation.*  
-![production](production.png)
+![production](agriculture/production.png)
 
 ---
 
