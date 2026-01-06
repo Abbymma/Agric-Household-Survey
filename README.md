@@ -20,7 +20,7 @@ Raw data is confidential and **not included**. This repository contains only das
 
 ### 2. Householding  
 *Details of agricultural household distributions and activities.*  
-![householding](householdholdings.png)
+![householding](https://github.com/Abbymma/Agric-Household-Survey/blob/main/Household%20holdings.png)
 
 ### 3. Plot / Area  
 *Insight into plot types, conventional vs fallow plots, irrigation, and land area.*  
