@@ -33,8 +33,8 @@ Raw data is confidential and **not included**. This repository contains only das
 ---
 
 ## Tools Used
-- **Power BI Desktop** – Modeling, analysis, and visualization  
-- **Microsoft Excel** – Data cleaning and preparation (not uploaded)
+- **Power BI Desktop** – Data cleaning and preparation (not uploaded), Modeling, analysis, and visualization  
+ 
 
 ---
 
