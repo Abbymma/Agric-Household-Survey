@@ -24,7 +24,7 @@ Raw data is confidential and **not included**. This repository contains only das
 
 ### 3. Plot / Area  
 *Insight into plot types, conventional vs fallow plots, irrigation, and land area.*  
-![plot area](PlotandArea.png)
+![plot area](https://github.com/Abbymma/Agric-Household-Survey/blob/main/Plot%20and%20Area.png)
 
 ### 4. Production  
 *Crop production, harvested seasons (major/minor), livestock and aquaculture participation.*  
