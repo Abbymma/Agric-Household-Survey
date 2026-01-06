@@ -42,8 +42,5 @@ Raw data is confidential and **not included**. This repository contains only das
 Raw NASS data is confidential and has **not** been uploaded.  
 Only **non-sensitive screenshots** and **documentation** are included to demonstrate analytical workflow.
 
----
 
-## Analyst
-**Abigail Emmanuel**  
-Power BI & Data Analysis  
+
