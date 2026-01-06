@@ -6,44 +6,44 @@ Raw data is confidential and **not included**. This repository contains only das
 
 ---
 
-## 📁 Project Contents
+## Project Contents
 - `screenshots/` Dashboard images (no raw data)
 - `docs/` Project scope and notes (AREA OF CONCENTRATION.docx)
 
 ---
 
-## 📸 Dashboard Screenshots
+## Dashboard Screenshots
 
 ### 1. Dashboard Overview  
 *High-level summary of agricultural households across zones.*  
-![dashboard overview](agriculture/dashboard_overview.png)
+![dashboard overview](dashboard_overview.png)
 
 ### 2. Householding  
 *Details of agricultural household distributions and activities.*  
-![householding](agriculture/householding.png)
+![householding](householding.png)
 
 ### 3. Plot / Area  
 *Insight into plot types, conventional vs fallow plots, irrigation, and land area.*  
-![plot area](agriculture/plot_area.png)
+![plot area](plot_area.png)
 
 ### 4. Production  
 *Crop production, harvested seasons (major/minor), livestock and aquaculture participation.*  
-![production](agriculture/production.png)
+![production](production.png)
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - **Power BI Desktop** – Modeling, analysis, and visualization  
 - **Microsoft Excel** – Data cleaning and preparation (not uploaded)
 
 ---
 
-## 🔒 Data Privacy
+## Data Privacy
 Raw NASS data is confidential and has **not** been uploaded.  
 Only **non-sensitive screenshots** and **documentation** are included to demonstrate analytical workflow.
 
 ---
 
-## 👩‍💻 Analyst
+## Analyst
 **Abigail Emmanuel**  
 Power BI & Data Analysis  
