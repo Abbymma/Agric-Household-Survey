@@ -7,7 +7,7 @@ Raw data is confidential and **not included**. This repository contains only das
 ---
 
 ## 📁 Project Contents
-- `screenshots/` — Dashboard images (no raw data)
+- `screenshots/` Dashboard images (no raw data)
 - `docs/` — Project scope and notes (AREA OF CONCENTRATION.docx)
 
 ---
@@ -16,19 +16,19 @@ Raw data is confidential and **not included**. This repository contains only das
 
 ### 1. Dashboard Overview  
 *High-level summary of agricultural households across zones.*  
-![Dashboard overview](01_dashboard_overview.png)
+![Dashboard overview](dashboard_overview.png)
 
 ### 2. Householding  
 *Details of agricultural household distributions and activities.*  
-![Householding](02_householding.png)
+![Householding](_householding.png)
 
 ### 3. Plot / Area  
 *Insight into plot types, conventional vs fallow plots, irrigation, and land area.*  
-![Plot and Area](03_plot_area.png)
+![Plot and Area](_plot_area.png)
 
 ### 4. Production  
 *Crop production, harvested seasons (major/minor), livestock and aquaculture participation.*  
-![Production](04_production.png)
+![Production](production.png)
 
 ---
 
